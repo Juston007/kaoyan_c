@@ -1,0 +1,3 @@
+﻿  预处理.cpp
+LINK : fatal error LNK1104: 无法打开文件“Debug\预处理.obj”
+D:\ProgramFiles\VisualStudio2019\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(854,5): error MSB6006: “link.exe”已退出，代码为 1104。
