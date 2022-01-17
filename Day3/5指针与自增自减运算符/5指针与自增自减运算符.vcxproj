@@ -20,10 +20,9 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
-    <ProjectGuid>{78E6DA00-8352-4372-9923-DB893325A8BF}</ProjectGuid>
-    <RootNamespace>一维数组</RootNamespace>
+    <ProjectGuid>{FCC97E82-3233-45E0-AC4F-9F65F49FB72C}</ProjectGuid>
+    <RootNamespace>My5指针与自增自减运算符</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>4指针与一维数组</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

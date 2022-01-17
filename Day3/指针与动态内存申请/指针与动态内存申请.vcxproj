@@ -20,10 +20,10 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
-    <ProjectGuid>{78E6DA00-8352-4372-9923-DB893325A8BF}</ProjectGuid>
-    <RootNamespace>一维数组</RootNamespace>
+    <ProjectGuid>{B28000A6-2718-429F-8B28-FD708594161E}</ProjectGuid>
+    <RootNamespace>指针与动态内存申请</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>4指针与一维数组</ProjectName>
+    <ProjectName>6指针与动态内存申请</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

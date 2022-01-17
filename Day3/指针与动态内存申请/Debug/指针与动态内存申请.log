@@ -1,0 +1,3 @@
+﻿  Test.cpp
+E:\kaoyan\c\kaoyan_c\Day3\指针与动态内存申请\Test.cpp(29,12): warning C4309: “=”: 截断常量值
+  指针与动态内存申请.vcxproj -> E:\kaoyan\c\kaoyan_c\Day3\Debug\指针与动态内存申请.exe
