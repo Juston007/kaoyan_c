@@ -1,0 +1,6 @@
+﻿  Test.cpp
+E:\kaoyan\c\kaoyan_c\Day6\Cpp引用\Test.cpp(31,9): warning C4477: “printf”: 格式字符串“%#x”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“BinaryTree *”
+E:\kaoyan\c\kaoyan_c\Day6\Cpp引用\Test.cpp(31,9): warning C4477: “printf”: 格式字符串“%#x”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“BinaryTree”
+E:\kaoyan\c\kaoyan_c\Day6\Cpp引用\Test.cpp(33,9): warning C4477: “printf”: 格式字符串“%#x”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“BinaryTree *”
+E:\kaoyan\c\kaoyan_c\Day6\Cpp引用\Test.cpp(33,9): warning C4477: “printf”: 格式字符串“%#x”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“BinaryTree”
+  Cpp引用.vcxproj -> E:\kaoyan\c\kaoyan_c\Day6\Debug\2Cpp引用.exe
