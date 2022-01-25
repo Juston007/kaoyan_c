@@ -18,12 +18,21 @@
     <ClInclude Include="ArrayList.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="SequenceList.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="ArrayList.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="Test.cpp">
+    <ClCompile Include="SequenceList.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Test1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Test2.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

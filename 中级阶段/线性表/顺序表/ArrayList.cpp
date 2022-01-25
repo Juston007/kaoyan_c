@@ -1,10 +1,8 @@
-
 #include "ArrayList.h"
 
-typedef struct {
-	ElementType data[MAX_SIZE];
-	int length;
-} ArrayList;
+// 静态分配的顺序表
+// Date:2022-01-25
+// WrittenBy Juston
 
 void InitList(ArrayList& list) {
 	//将所有元素置为0
@@ -22,7 +20,7 @@ void DestoryList(ArrayList& list) {
 
 bool ListInsert(ArrayList& list, int index, ElementType element) {
 	//检查下标index是否合法
-	if ((index >= 0) && (index <= list.length)) {
+	if (!((index >= 0) && (index <= list.length))) {
 		return FALSE;
 	}
 
@@ -47,7 +45,7 @@ bool ListInsert(ArrayList& list, int index, ElementType element) {
 
 bool ListDelete(ArrayList& list, int index, ElementType& element) {
 	//检查下标index是否合法
-	if ((index >= 0) && index <= (list.length - 1)) {
+	if (!((index >= 0) && index <= (list.length - 1))) {
 		return FALSE;
 	}
 
@@ -67,7 +65,7 @@ bool ListDelete(ArrayList& list, int index, ElementType& element) {
 
 bool LocateElement(ArrayList list, int index, ElementType& element) {
 	//检查下标index是否合法
-	if ((index >= 0) && index <= (list.length - 1)) {
+	if (!((index >= 0) && index <= (list.length - 1))) {
 		return FALSE;
 	}
 	else {
@@ -91,7 +89,10 @@ int Length(ArrayList list) {
 }
 
 void PrintList(ArrayList list) {
-
+	printf("list.length = %d\n", list.length);
+	for (int i = 0;i < list.length;i++) {
+		printf("%2c", list.data[i]);
+	}
 }
 
 bool Empty(ArrayList list) {
