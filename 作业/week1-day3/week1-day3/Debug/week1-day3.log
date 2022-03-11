@@ -1,0 +1,3 @@
+﻿  test.cpp
+E:\kaoyan\c\kaoyan_c\作业\week1-day3\week1-day3\test.cpp(7,7): warning C4101: “ch”: 未引用的局部变量
+  week1-day3.vcxproj -> E:\kaoyan\c\kaoyan_c\作业\week1-day1\Debug\week1-day3.exe
