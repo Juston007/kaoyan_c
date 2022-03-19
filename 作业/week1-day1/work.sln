@@ -39,6 +39,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "中级-day2", "中级-day2\
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "scanf循环读取", "scanf\scanf.vcxproj", "{979EF0C5-FF7A-4B00-8BDB-E3A0CBA66021}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "scanf多种数据类型混合输入", "scanf多种数据类型混合输入\scanf多种数据类型混合输入.vcxproj", "{7BF56691-2C31-45D5-8792-734912DB368A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -191,6 +193,14 @@ Global
 		{979EF0C5-FF7A-4B00-8BDB-E3A0CBA66021}.Release|x64.Build.0 = Release|x64
 		{979EF0C5-FF7A-4B00-8BDB-E3A0CBA66021}.Release|x86.ActiveCfg = Release|Win32
 		{979EF0C5-FF7A-4B00-8BDB-E3A0CBA66021}.Release|x86.Build.0 = Release|Win32
+		{7BF56691-2C31-45D5-8792-734912DB368A}.Debug|x64.ActiveCfg = Debug|x64
+		{7BF56691-2C31-45D5-8792-734912DB368A}.Debug|x64.Build.0 = Debug|x64
+		{7BF56691-2C31-45D5-8792-734912DB368A}.Debug|x86.ActiveCfg = Debug|Win32
+		{7BF56691-2C31-45D5-8792-734912DB368A}.Debug|x86.Build.0 = Debug|Win32
+		{7BF56691-2C31-45D5-8792-734912DB368A}.Release|x64.ActiveCfg = Release|x64
+		{7BF56691-2C31-45D5-8792-734912DB368A}.Release|x64.Build.0 = Release|x64
+		{7BF56691-2C31-45D5-8792-734912DB368A}.Release|x86.ActiveCfg = Release|Win32
+		{7BF56691-2C31-45D5-8792-734912DB368A}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

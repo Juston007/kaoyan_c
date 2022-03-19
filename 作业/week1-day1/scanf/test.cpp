@@ -23,6 +23,19 @@ int main() {
 	while (rewind(stdin), (ret = scanf("%d", &i)) != EOF) {
 		printf("i = %d\n", i);
 	}
+
+	/*
+	char c, ret;
+	while ((ret = scanf("%c", &c)) != EOF) {
+		if (c != '\n') {
+			printf("%c", c - 32);
+		}
+		else {
+			printf("\n");
+		}
+	}
+	*/
+
 	system("pause");
 	return 0;
 }
