@@ -1,0 +1,3 @@
+﻿  test.cpp
+E:\kaoyan\c\kaoyan_c\202203\202203\4-数组\test.cpp(19,9): warning C4477: “printf”: 格式字符串“%0x”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“int *”
+  4-数组.vcxproj -> E:\kaoyan\c\kaoyan_c\202203\202203\Debug\4-数组.exe
