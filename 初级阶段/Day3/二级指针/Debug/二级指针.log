@@ -1,4 +1,4 @@
 ﻿  Test.cpp
-E:\kaoyan\c\kaoyan_c\Day3\二级指针\Test.cpp(24,9): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“int *”
-E:\kaoyan\c\kaoyan_c\Day3\二级指针\Test.cpp(26,9): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“int *”
-  二级指针.vcxproj -> E:\kaoyan\c\kaoyan_c\Day3\Debug\二级指针.exe
+E:\kaoyan\c\kaoyan_c\初级阶段\Day3\二级指针\Test.cpp(25,9): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“int *”
+E:\kaoyan\c\kaoyan_c\初级阶段\Day3\二级指针\Test.cpp(27,9): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“int *”
+  二级指针.vcxproj -> E:\kaoyan\c\kaoyan_c\初级阶段\Day3\Debug\二级指针.exe
