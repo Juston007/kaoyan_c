@@ -1,0 +1,4 @@
+﻿  test.cpp
+E:\kaoyan\c\kaoyan_c\202203\202203\10-typedef\test.cpp(31,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“Lnode *”
+E:\kaoyan\c\kaoyan_c\202203\202203\10-typedef\test.cpp(32,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“Lnode *”
+  10-typedef.vcxproj -> E:\kaoyan\c\kaoyan_c\202203\202203\Debug\10-typedef.exe
